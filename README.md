@@ -1,3 +1,4 @@
+In this project I tried to understand how did I spent money for the last couple of years.
 The data is taken from a statement of account for the period from August 1, 2020 to August 31, 2022 and from my personal expenses accounting from July 30 to September 27, 2022.
 
 I decided to limit the analysis for one of the tables (statement of account) to only include the spending on coffee, so the project wouldn't be blown out.

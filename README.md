@@ -12,3 +12,6 @@ Having this data, I tried to solve the following problems:
 4. How do the three categories (Meals, Other, Extra) differ?
 
 5. Break down the Extra category and compare it to the other two.
+
+\
+Initially, this project contained analysis of my coffee spending for two years, but I decided to split two parts and create a separate [<i>Coffee</i> project](https://github.com/denislsad/coffee_spending), as they were too unrelated. 
